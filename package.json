@@ -18,7 +18,7 @@
   "author": "Marc Riegel <mail@mrcrgl.de>",
   "license": "MIT",
   "dependencies": {
-    "copy-obejct": "^1.0",
+    "copy-object": "^1.0",
     "connect": "~3.4",
     "jsdom": "~3.1.2"
   },
